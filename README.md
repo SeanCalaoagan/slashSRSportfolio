@@ -1,1 +1,6 @@
-Whats up this is our groups portfolio website! Feel free to read through the code B)
+Our group's portfolio website (slashSRS).
+
+Members:
+Bustos, Simon
+Santiago, Ramick
+Calaoagan, Sean
