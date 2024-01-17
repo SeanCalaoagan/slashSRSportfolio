@@ -1,0 +1,45 @@
+.header {
+  margin:auto;
+  width:80%;
+  text-align: center;
+  padding: 50px;
+  background-color:#323949;
+  font-size: 200%;
+  font-family: 'VT323', monospace;
+  border-left: 200px;
+  margin-bottom: 100px;
+  color:#D1768F;
+  border-radius:20px;
+  }
+
+body{
+  background-size: 100%;
+  background-image: url('images/membersbg.png');
+  background-repeat: no-repeat;
+
+}
+
+p{
+  color:white;
+}
+
+a {
+  text-decoration: none;
+  transition: 700ms ease;
+  color: #ba3c3c;
+}
+
+a:hover{
+  text-decoration: none;
+  color:#71906e;
+  font-variation-settings: "wght" 582; 
+  letter-spacing: 10px;
+
+}
+
+
+@media screen and (max-width: 767px){
+  .header {
+    font-size: 24px;
+ }
+}
