@@ -1,8 +1,1 @@
-
-
-Our group's portfolio website (slashSRS).
-
-Members:
-- Bustos, **S**imon
-- Santiago, **R**amick
-- Calaoagan, **S**ean
+Whats up this is our groups portfolio website! Feel free to read through the code B)

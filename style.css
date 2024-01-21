@@ -38,6 +38,7 @@ a {
     text-decoration: none;
     transition: 700ms ease;
     color: white;
+    padding-left:150px;
 }
 
 a:hover{

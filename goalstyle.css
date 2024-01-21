@@ -38,9 +38,6 @@ top: 1px;
   padding: 20px;
   justify-content: space-evenly;
 }
-.nav-bar a:hover{
-  color: yellow;
-}
 
 .nav-bar ul{
   position: relative;
@@ -49,7 +46,7 @@ top: 1px;
   border: 1px solid #000;
   border-left-width: 0px;
   margin-left: -15px;
-  background-color: #35668f;
+  background-color: #18122B;
   padding: 15px;
   width: 100%;
   height: 24px;
@@ -66,7 +63,7 @@ top: 1px;
   color: white;
 }
 .nav-bar a:hover{
-  color: #ffff99;
+  color:cadetblue;
   transition: 0.5s;
 }
 .nav-bar a:after{
