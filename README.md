@@ -1,3 +1,8 @@
-Whats up this is our groups portfolio website! Feel free to read through the code B)
+The portfolio of our group (slashSRS)
+
+Members:
+- Calaoagan, Sean
+- Santiago, Ramick
+- Bustos, Simon
 
 Site: https://seancalaoagan.github.io/slashSRSportfolio/
