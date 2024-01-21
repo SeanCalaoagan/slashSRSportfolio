@@ -1,3 +1,75 @@
+.members{
+  font-family: 'VT323', monospace;
+  background-color: #18122B;
+  color: #F4EEE0;
+  font-size: 200%;
+  border-radius: 20px;
+  width: 50%;
+  padding: 10px;
+  margin: auto;
+
+}
+
+.tab {
+  overflow: hidden;
+  background-color: #F4EEE0;
+  width: 1000px;
+  
+  margin:auto;
+}
+
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-family: 'VT323', monospace;
+  font-size:400%;
+  color: #18122B;
+}
+
+.tab button:hover {
+  background-color: #18122B;
+  color: #F4EEE0;
+}
+
+.tab button.active {
+  background-color: #18122B;
+  color: #F4EEE0;
+}
+
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border-top: none;
+  background-color: #18122B;
+  width: 976px;
+  height: 720px;
+  margin:auto;
+  color: #F4EEE0;
+}
+
+.tabcontent, #aboutfont{
+  font-size:300%;
+  text-align:center;
+  font-family: 'VT323', monospace;
+}
+
+.tabcontent, p{
+  font-size:200%;
+  text-align:justify;
+  font-family: 'VT323', monospace;
+}
+
+body {
+  background-image: url('images/space.gif');
+}
+
+/* OLD CSS
+
 .header {
   margin:auto;
   width:80%;
@@ -43,3 +115,4 @@ a:hover{
     font-size: 24px;
  }
 }
+*/ 
