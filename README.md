@@ -3,6 +3,6 @@
 Our group's portfolio website (slashSRS).
 
 Members:
-- Bustos, Simon
-- Santiago, Ramick
-- Calaoagan, Sean
+- Bustos, **S**imon
+- Santiago, **R**amick
+- Calaoagan, **S**ean
